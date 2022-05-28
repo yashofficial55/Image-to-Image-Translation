@@ -3,6 +3,7 @@ In Image-to-Image Translation, the task is to translate images from one domain t
 
 Results-
 Street view to Normal View
-![](images/streetimage_1.png)
-![](images/streetimage_2.png)
-![](images/streetimage_3.png)
+
+![](Images/streetimage_1.png)
+![](Images/streetimage_2.png)
+![](Images/streetimage_3.png)
